@@ -1,0 +1,10 @@
+	HTML
+-<!DOCTYPE html>, the declaration specifying the version of HTML for the browser
+
+-The <html> tags that enclose all of your HTML code
+
+-Metadata is information about the page that ins't displayed directly on the web page. The metadata in the head is information about the page itself. 
+
+-When reading technical documentation, you may come across the term hyperlink. Not to worry, this is simply the technical term for link.
+
+-Web browsers respond to "index.html" and "/" the same way.
